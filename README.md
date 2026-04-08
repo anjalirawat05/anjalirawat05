@@ -22,13 +22,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-(Add later using GitHub stats tools)
-
----
-
 ## 📫 Contact
 
 * Email: [anjalirawat050805@gmail.com](mailto:anjalirawat050805@gmail.com)
-* LinkedIn: (add later)
+* LinkedIn: https://www.linkedin.com/in/anjali-rawat-7571b1287/
